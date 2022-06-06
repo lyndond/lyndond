@@ -9,9 +9,9 @@
 
 
 <p align="center">
-<a href="">
+<!-- <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyndond&show_icons=false&theme=synthwave" />
-</a>
+</a> -->
 <a href="">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyndond&hide=jupyter%20notebook,html,css,ruby,cmake&layout=compact&theme=synthwave" />
 </a>
