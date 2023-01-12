@@ -8,7 +8,7 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
 <!-- <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyndond&show_icons=false&theme=synthwave" />
 </a> -->
@@ -16,3 +16,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyndond&hide=jupyter%20notebook,html,css,ruby,cmake&layout=compact&theme=synthwave" />
 </a>
 </p>
+ -->
