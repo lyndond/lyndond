@@ -7,12 +7,12 @@
     <a href="https://scholar.google.com/citations?user=3AQW-SsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google-Scholar-forestgreen?style=flat-square&logo=google" /></a>
 </p>
 
-
 <!-- <p align="center">
-<!-- <a href="">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyndond&show_icons=false&theme=synthwave" />
 </a> -->
-<a href="">
+
+<!-- <a href="">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyndond&hide=jupyter%20notebook,html,css,ruby,cmake&layout=compact&theme=synthwave" />
 </a>
 </p>
